@@ -1,0 +1,8 @@
+/===| 	  BE WEARY OF ALTERING BASE GAME FILES	  |===\
+|===| 		 	START PATH FROM DRIVE			  |===|
+\===| IF DONT HAVE IT YET DIRECT IT TO BASE GAME  |===/
+E:/EXAMPLE_FOLDER/EXAMPLE_SUB_FOLDER/EXAMPLEMODNAME\#FOLLOW THIS FORMAT DO ALTER ROWS HERE OR ABOVE ^
+C:\Users\M\Documents\Paradox Interactive\Europa Universalis IV\mod\test3\ #Directory
+1444.11.11#Start date
+1920,1080 #Screen Size
+key shortcut changes will be here soon (this line is mandetory)

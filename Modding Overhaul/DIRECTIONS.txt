@@ -1,0 +1,49 @@
+First set up SETTINGS.txt by providing it with the required file locations
+Then run the .EXE called Modding Overhaul
+When Done With Map Editing Make Sure to Copy Image Ontop of A File with the Correct Color Space Information
+
+Press Esc or the bottom left corner to open the menu
+
+Move the Side Window by clicking the bottom left corner of it
+The key binds are necessary to know to access most features
+
+The key binds are as follows (check back every update as more are added constantly):
+
+Double Middle Click: Zooms to Area Made by Seperation of Clicks
+SCROLL: Resets Zoom
+M: Runs Magnifier Tool (only works in history/province editor)
+COMMA: Prompts changing the date. For reasons unbeknownst to me the number 1 takes a second or two to load.
+CAPSLOCK: Switchs from click to drag (might take multiple tries (not fleshed out yet))
+PERIOD: Gives Cordinates
+
+Back Tick: Opens Command Prompt [Example of format: base_tax,base_production;1,3;k (k = keep, r = replace (default), d = delete (follows format: trigger;d), trigger (Ex: culture = prussian), 9999.99.9 = any date will set it to history)]
+CTRL A In The Cmnd Prmpt Selects All Provinces
+
+Left Ctrl + O: Opens Currently Selected Province File
+Left Ctrl + C: Opens Currently Selected Province's Country File
+Left Ctrl + L: Locks to Current Province Info
+Left Ctrl + U: Updates Province Information (To Check Crash)
+
+Left Alt: Begins Area setting
+Left Alt + Left Click: Adds Province to Area List
+Left Alt + Right Click: Removes Province from Area List
+Left Alt + A: Adds Selected Provinces to either a New Randomly Named New Area or a Set Area #Please report any problems with this function (supected of working funky)
+Left Alt + S: Sets Area
+
+Right Alt: Begins Continent setting
+Right Alt + Left Click: Adds Province to Continent List
+Right Alt + Right Click: Removes Province from Continent List
+Right Alt + A: Adds Selected Provinces to either a New Randomly Named New Continent or a Set Continent #Please report any problems with this function (supected of working funky)
+Right Alt + S: Sets Continent
+
+Left Ctrl + Left Alt: Begins Trade setting
+Left Ctrl + S: Sets Trade Node to add to
+Left CTRL + Left Click: Adds Province to Trade List
+Left Ctrl + Right Click: Removes Province from Trade List
+Left Ctrl + A: Adds Trade List to Set Trade Node
+
+Left Alt + Right Alt + Y: Removes all Areas, Regions, and Continents to be Replaced by One Mega Area, Region, and Continent
+
+Map Editor Specific:
+H: Show Heightmap
+P: Show Province Map

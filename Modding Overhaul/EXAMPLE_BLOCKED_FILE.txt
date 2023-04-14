@@ -1,0 +1,2 @@
+words and such are allowed here, it just pays attention to id's like : 99999
+& 10023234 neither will be allowed in you area with this file referenced.
