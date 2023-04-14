@@ -7,7 +7,7 @@ New Files are made in the aptly named folder
 Map Creation Tool:
 * Generate Heightmaps, Province map, Colormap, Terrain map, Definitions
 * Get list of sea provinces\
-![heightmap](...\docs\heightmap.png)  
+![heightmap](docs\heightmap.png)  
 History Editing Tool:
 * Edit/View history at different dates with potential triggers
 * Add provinces to Trade Nodes, Areas, and Regions
